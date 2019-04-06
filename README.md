@@ -28,4 +28,5 @@ Features we want to add and some Todos:
   <li>System commands</li>
   <li>Finding by original words</li>
   <li>Altering Position</li>
+  <li>Make it more usable</li>
 </ul>
